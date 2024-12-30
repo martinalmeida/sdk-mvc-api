@@ -1,0 +1,18 @@
+{
+    "name": "martin/mvc-api",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Martin\\MvcApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "martinalmeida",
+            "email": "martinalmeida56@gmail.com"
+        }
+    ],
+    "require": {
+        "nikic/fast-route": "^1.3"
+    }
+}
